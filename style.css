@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+.top-banner{
+    display: flex;
+}
+.flexible{
+    width: 50%;
+    margin: 20px;
+}
+div img{
+    width: 80%;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+#color{
+    font-weight: 700;
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(red,orange) ;
+    color: black;
+    font-weight: bold;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+   
+}
