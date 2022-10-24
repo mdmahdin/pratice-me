@@ -4,9 +4,10 @@ body{
 }
 .top-banner{
     display: flex;
+  
 }
 .flexible{
-    width: 50%;
+    width: 50%;  
     margin: 20px;
 }
 div img{
@@ -34,4 +35,16 @@ h2{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
    
+}
+.second{
+     width: 50%;
+}
+#para{
+    margin-right: 30px;
+}
+.bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
